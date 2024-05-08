@@ -1,3 +1,1 @@
-# cpt_s 321 HW assignment
-Ahmed Mohamed
-WSU ID: 011784109
+This is a replica of excel with copy/paste, undo/redo, save/open and cell dependencies.
